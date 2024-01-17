@@ -9,7 +9,7 @@ window.songs = [
     id: "10000",
     title: "Danger",
     imageUrl:
-      "https://i.namu.wiki/i/wG7bNgkN6S1_AAdjUeN1vpsPgFPx3OkdVKaBsHJTk7SxBdT7P5A33dwMo-bBWlGA4HDtJHHUj414DgSe0cLGkLUsqra6OOlVrDEAIIgWM_kUMA5xxrU_ZAA2l1nEdjxDbtZYJ_OjGRhk6SDL4euXjA.webp",
+      "https://i1.sndcdn.com/artworks-000088889316-30kjdl-t500x500.jpg",
     duration: 245,
     year: "2014",
     discontinued: false,
